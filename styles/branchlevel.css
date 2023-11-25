@@ -14,6 +14,8 @@ img{
   color:white;
   border-radius:20px;
   vertical-align: top;
+  text-align:center;
+  margin-top: 5px;
 }
 
 figcaption{
