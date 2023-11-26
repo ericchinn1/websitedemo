@@ -17,7 +17,7 @@ img{
   text-align:center;
   margin-top: 5px;
 }
-
+div {margin:0 auto 0 auto;width: 940px;}
 figcaption{
   width: 315px;
   text-align: left;
