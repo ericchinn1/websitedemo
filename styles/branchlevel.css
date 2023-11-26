@@ -26,3 +26,22 @@ figcaption{
   font-style: italic;
   font-size: 30px;
 }
+nav li {
+  list-style-type: none;
+  width: 50%;
+  text-align: center;
+  float: left;
+  clear: all;
+  font-family: 'Josefin Sans', sans-serif;
+}
+nav a:hover {
+  background: black;
+  color: yellow;
+}
+nav a {
+  text-decoration: none;
+  color: Black;
+  display: block;
+  border-style: ridge;
+  border: 1px;
+}
